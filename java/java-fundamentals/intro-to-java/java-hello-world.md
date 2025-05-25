@@ -1,4 +1,4 @@
----
+hello java---
 author: mihaiberq
 type: normal
 category: must-know
